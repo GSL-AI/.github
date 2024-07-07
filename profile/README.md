@@ -6,7 +6,7 @@ Welcome to GSL, where we are redefining the relationship between humans and tech
 
 ## Getting Started 
 
-To explore GSL's offerings and unleash the power of mindful tech, visit our website: [https://www.gsltech.com](https://www.gsltech.com)
+To explore GSL's offerings and unleash the power of mindful tech, visit our website: [https://www.gsl.framer.ai](https://www.gsl.framer.ai)
 
 ## Features 
 
